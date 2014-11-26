@@ -1,11 +1,11 @@
 # WHAT
-cambender is a webcam glitcher. It takes your fancy HD webcam and makes it looks like something Rusty Venture found in his basement.
+cambender is a webcam glitcher, built in [Processing][proc]. It takes your fancy HD webcam and makes it looks like something Rusty Venture found in his basement. It should work on any platform that Processing supports.
 
 Launch it, and it’ll take a second and then show a glitchy live webcam view.
 
 # CONTROLS
 
-Push enter to save a screenshot. Push space to start recording a GIF and push space again to stop recording. They’ll be saved to the folder that the app is in. You can take as many screenshots as you want, but the GIFs will overwrite each other if you do more than one.
+Push enter to save a screenshot. Push space to start recording a GIF and push space again to stop recording. They’ll be saved to the folder that the app is in (as cam-###.jpg and cambender.gif respectively). You can take as many screenshots as you want, but the GIFs will overwrite each other if you do more than one.
 
 # WHO IS RESPONSIBLE FOR THIS
 [@philnelson][twit] made this. Blame him. Blame him always.
