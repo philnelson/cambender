@@ -1,5 +1,7 @@
 # WHAT
-cambender is a webcam glitcher, built in [Processing][proc]. It takes your fancy HD webcam and makes it looks like something Rusty Venture found in his basement. It should work on any platform that Processing supports.
+cambender is a webcam glitcher, built in [Processing][proc]. It takes your fancy HD webcam and makes it looks like something Rusty Venture found in his basement. It should work on any platform that Processing supports. It looks like this:
+
+![Glitchy webcaming it up](cambender-example.gif "You're welcome, everyone.")
 
 Launch it, and it’ll take a second and then show a glitchy live webcam view.
 
